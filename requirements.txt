@@ -2,3 +2,4 @@ django
 matplotlib
 numpy
 pandas
+flask
